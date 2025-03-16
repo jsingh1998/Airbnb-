@@ -1,7 +1,7 @@
-# Los Angeles Airbnb Market Analysis Dashboard
+# Airbnb Market Analysis Dashboard
 
 ## Overview
-This project involves designing and implementing a Power BI dashboard to analyze the Los Angeles Airbnb market trends. The analysis covers various aspects such as total listings, host distribution, pricing, and growth patterns, with the goal of providing valuable insights for decision-making.
+This project involves designing and implementing a Power BI dashboard to analyze the Airbnb market trends. The analysis covers various aspects such as total listings, host distribution, pricing, and growth patterns, with the goal of providing valuable insights for decision-making.
 
 ## Key Analyses
 - **Total Listings**: Analyzed the scale of Airbnb activity in Los Angeles to understand the overall size of the market and rental activity across different cities.
