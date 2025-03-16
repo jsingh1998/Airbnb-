@@ -29,7 +29,7 @@ This project involves designing and implementing a Power BI dashboard to analyze
 
 
 ## Dashboard
-[![Los Angeles Airbnb Listings](https://github.com/user-attachments/assets/30ee8957-ce23-4195-a9c4-5f999ceeb8c8)](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZjM3YTEtNTJiNC00NTYzLWExZTktMDBjOWI1MmQ5NjkzIiwidCI6ImVlMmQ2ZDcyLTk1MzUtNDI0Mi1hMDc3LWFjZjE4NTc4MmY5YiIsImMiOjF9)
+[![Los Angeles Airbnb Listings](https://github.com/jsingh1998/Airbnb-/blob/main/assets/Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZjM3YTEtNTJiNC00NTYzLWExZTktMDBjOWI1MmQ5NjkzIiwidCI6ImVlMmQ2ZDcyLTk1MzUtNDI0Mi1hMDc3LWFjZjE4NTc4MmY5YiIsImMiOjF9)
 
 
 ## How to Run the Project
